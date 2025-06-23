@@ -1,6 +1,7 @@
-![Screenshot](sandbox:/mnt/data/Screenshot%202025-06-23%20at%2023.42.28.png)
+![Screenshot](https://github.com/Ranjith-H7/assessment/blob/main/Screenshot%202025-06-23%20at%2023.42.28.png?raw=true)
 
-[Download Image](sandbox:/mnt/data/Screenshot%202025-06-23%20at%2023.42.28.png)
+
+
 
 
 
